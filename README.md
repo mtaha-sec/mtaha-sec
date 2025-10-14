@@ -26,7 +26,7 @@ I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or clou
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
 </p>
 
-<hr>
+
 
 <hr>
 
