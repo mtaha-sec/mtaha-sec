@@ -1,8 +1,9 @@
 <!-- ================= PROFILE & ABOUT ================= -->
 
-<!-- Animated GIFs -->
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150" align="center">
-
+<p align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
+ 
+</p>
 
 <!-- Profile Picture -->
 <p align="center">
