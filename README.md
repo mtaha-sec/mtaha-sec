@@ -13,18 +13,24 @@
 <hr>
 
 <!-- ================= ABOUT ME ================= -->
+<!-- ================= ABOUT ME ================= -->
 <div align="center">
-  <h2>👋 Hello, I’m Mohamed Taha Aboumehdi Hassani</h2>
   <p>
-    Aspiring Cloud Security & DevSecOps Engineer from Morocco.  
-    Passionate about cybersecurity, networking, and building secure cloud solutions.
+    Aspiring Cloud Security & DevSecOps Engineer | CS Student @ AIAC | Passionate Cybersecurity & CTF Competitor
   </p>
   <p>
-    <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
+    I specialize in identifying and fixing vulnerabilities in web and cloud environments. Skilled in <strong>Burp Suite, Wireshark, Metasploit, Nmap, SQLmap, Kali Linux, Terraform, Docker, Kubernetes, and AWS security tools</strong>.
+  </p>
+  <p>
+    Experienced through CTFs and hands-on labs in protecting digital assets and applying DevSecOps practices to secure cloud infrastructures.
+  </p>
+  <p>
+    Currently seeking internships in cybersecurity, DevSecOps, or cloud security to apply my skills and contribute to real-world security projects.
   </p>
 </div>
 
 <hr>
+
 
 <!-- ================= CONNECT ================= -->
 <h3 align="center">Connect with me:</h3>
