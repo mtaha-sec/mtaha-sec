@@ -10,16 +10,17 @@
   <img src="taha.png" alt="Taha Profile Picture" width="500">
 </p>
 
-<!-- About Me -->
 <h3 align="center">🏄‍♂️ Mohamed Taha Aboumehdi Hassani</h3>
-<h4 align="center">Cloud Security & DevSecOps Enthusiast (Cybersecurity CTF Competitor)</h4>
+<h4 align="center">Cloud Security & DevSecOps Engineer (Cybersecurity & CTF Enthusiast)</h4>
 
 <p align="center">
-I’m an aspiring cloud security and DevSecOps engineer from Morocco, building secure web and cloud environments one step at a time.  
-All projects are done from the ground up: identifying vulnerabilities, applying DevSecOps practices, and implementing secure, reliable solutions.  
-Through CTF competitions and hands-on labs, I’ve gained practical experience in protecting digital assets and testing real-world systems.  
-I’m currently seeking internships in cybersecurity, DevSecOps, or cloud security to apply my skills and contribute to impactful security projects.
+I’m an aspiring Cloud Security & DevSecOps engineer from Morocco, passionate about building and securing web and cloud environments.  
+I work extensively with <strong>AWS, Docker, Kubernetes, Terraform</strong> to design, deploy, and protect cloud infrastructures.  
+Through CTF competitions, hands-on labs, and personal projects, I identify and fix vulnerabilities, implement security best practices, and ensure systems are reliable and resilient.  
+I enjoy taking projects from planning and design all the way to testing and deployment, applying real-world security measures along the way.  
+I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong> to apply my skills and contribute to impactful security projects.
 </p>
+
 
 <p align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
