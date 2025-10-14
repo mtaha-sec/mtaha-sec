@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="taha.png" alt="Taha Profile Picture" width="300">
+  <img src="taha.png" alt="Taha Profile Picture" width="1000">
 </p>
 
 
