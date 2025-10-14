@@ -6,7 +6,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="taha.png" alt="Taha Profile Picture" width="300">
+  <img src="taha.png" alt="Taha Profile Picture" width="500">
 </p>
 
 <!-- About Me -->
