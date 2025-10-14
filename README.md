@@ -2,7 +2,7 @@
 
 <!-- Animated GIFs -->
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150" align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="150" align="center">
+
 
 <!-- Profile Picture -->
 <p align="center">
