@@ -60,10 +60,6 @@ I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or clou
 
 <hr>
 
-<!-- ================= FOOTER / COUNTER ================= -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter">
-</div>
 
 
 
