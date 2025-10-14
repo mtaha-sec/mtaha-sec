@@ -1,17 +1,18 @@
-<!-- ================= HEADER / GIFS ================= -->
-
+<!-- ================= PROFILE GIFS / IMAGE ================= -->
+<div align="center">
   <!-- Animated GIFs -->
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
- 
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="150">
   
   <!-- Profile Picture -->
   <p>
-    <img src="taha.png" alt="Taha Profile Picture" width="500">
+    <img src="taha.png" alt="Taha Profile Picture" width="300">
   </p>
-
+</div>
 
 <hr>
-<!-- ================= PROFILE HEADER ================= -->
+
+<!-- ================= ABOUT ME ================= -->
 <div align="center">
 
 🏄‍♂️ Mohamed Taha Aboumehdi Hassani  
@@ -24,18 +25,13 @@ Through CTF competitions and hands-on labs, I’ve gained practical experience i
 I’m currently seeking internships in cybersecurity, DevSecOps, or cloud security to apply my skills and contribute to impactful security projects.
 </p>
 
-<!-- Optional fun GIF -->
 <p>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
 </p>
 
 </div>
 
 <hr>
-
-
-<hr>
-
 
 <!-- ================= CONNECT ================= -->
 <h3 align="center">Connect with me:</h3>
@@ -68,6 +64,10 @@ I’m currently seeking internships in cybersecurity, DevSecOps, or cloud securi
 
 <hr>
 
+<!-- ================= FOOTER / COUNTER ================= -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter">
+</div>
 
 
 
