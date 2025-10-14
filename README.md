@@ -6,7 +6,7 @@
   
   <!-- Profile Picture -->
   <p>
-    <img src="taha.png" alt="Taha Profile Picture" width="300">
+    <img src="taha.png" alt="Taha Profile Picture" width="500">
   </p>
 </div>
 
