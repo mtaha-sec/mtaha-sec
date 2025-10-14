@@ -1,35 +1,30 @@
-<!-- ================= PROFILE GIFS / IMAGE ================= -->
-<div align="center">
-  <!-- Animated GIFs -->
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="150">
-  
-  <!-- Profile Picture -->
-  <p>
-    <img src="taha.png" alt="Taha Profile Picture" width="300">
-  </p>
-</div>
+<!-- ================= PROFILE & ABOUT ================= -->
 
-<hr>
+<!-- Animated GIFs -->
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="150" align="center">
 
-<!-- ================= ABOUT ME ================= -->
-<div align="center">
+<!-- Profile Picture -->
+<p align="center">
+  <img src="taha.png" alt="Taha Profile Picture" width="300">
+</p>
 
-🏄‍♂️ Mohamed Taha Aboumehdi Hassani  
-Cloud Security & DevSecOps Enthusiast (Cybersecurity CTF Competitor)
+<!-- About Me -->
+<h3 align="center">🏄‍♂️ Mohamed Taha Aboumehdi Hassani</h3>
+<h4 align="center">Cloud Security & DevSecOps Enthusiast (Cybersecurity CTF Competitor)</h4>
 
-<p>
+<p align="center">
 I’m an aspiring cloud security and DevSecOps engineer from Morocco, building secure web and cloud environments one step at a time.  
 All projects are done from the ground up: identifying vulnerabilities, applying DevSecOps practices, and implementing secure, reliable solutions.  
 Through CTF competitions and hands-on labs, I’ve gained practical experience in protecting digital assets and testing real-world systems.  
 I’m currently seeking internships in cybersecurity, DevSecOps, or cloud security to apply my skills and contribute to impactful security projects.
 </p>
 
-<p>
+<p align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
 </p>
 
-</div>
+<hr>
 
 <hr>
 
