@@ -6,6 +6,9 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
+<p align="center">
+  <img src="taha.png" alt="Taha Profile Picture" width="300">
+</p>
 
 
 
