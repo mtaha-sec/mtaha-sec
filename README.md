@@ -1,5 +1,5 @@
 <!-- ================= HEADER / GIFS ================= -->
-<div align="center">
+
   <!-- Animated GIFs -->
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
  
@@ -8,12 +8,9 @@
   <p>
     <img src="taha.png" alt="Taha Profile Picture" width="500">
   </p>
-</div>
+
 
 <hr>
-
-<!-- ================= ABOUT ME ================= -->
-<!-- ================= ABOUT ME ================= -->
 <!-- ================= PROFILE HEADER ================= -->
 <div align="center">
 
