@@ -10,8 +10,8 @@
   <img src="taha.png" alt="Taha Profile Picture" width="500">
 </p>
 
-<h3 align="center">🏄‍♂️ Mohamed Taha Aboumehdi Hassani</h3>
-<h4 align="center">Cloud Security & DevSecOps Engineer (Cybersecurity & CTF Enthusiast)</h4>
+
+<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer (Passionate about Cybersecurity(offensive) & CTF Player)</h3>
 
 <p align="center">
 I’m an aspiring Cloud Security & DevSecOps engineer from Morocco, passionate about building and securing web and cloud environments.  
@@ -33,9 +33,8 @@ I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or clou
 <!-- ================= CONNECT ================= -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/LORENZACCIO-1" target="_blank">GitHub</a> |
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/taha-a-4101b5349/" target="_blank">LinkedIn</a> |
+ 
 </p>
 
 <hr>
