@@ -1,32 +1,24 @@
-<!--
-  Hacker-style dynamic README
-  Replace YOUR_USERNAME with your GitHub username (e.g., LORENZACCIO-1)
-  Replace placeholders (projects, links, socials) with your real info
--->
-
-<div align="center">
-
-![banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner-glitch.gif)
-
-# 👋 Hi, I'm **Mohamed Taha Aboumehdi Hassani** — a.k.a **Taha**
-### 🧑‍💻 Aspiring Cloud Security & DevSecOps Engineer | CTF Player | Automation addict
-
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=follow&style=social"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img alt="Repos" src="https://img.shields.io/badge/Repos-🔐-blue?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LI_PROFILE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:taha.aboumehdi@example.com"><img alt="mail" src="https://img.shields.io/badge/Email-taha.aboumehdi%40example.com-red?style=flat-square"></a>
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-</div>
+<!--
+How to make this gif ?
 
----
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
-## 🎯 Quick hacker snapshot
-```bash
-# Whoami
-name="Mohamed Taha Aboumehdi Hassani"
-role="CloudSecurity / DevSecOps / Pentest"
-motto="Automate everything. Harden everything."
+## :memo: Blog
 
-echo "$name — $role"
+<!-- BLOG-POST-LIST:START -->
+- [🎮 Comprendre l’ECS : la brique invisible derrière les jeux modernes](https://blog.darkwood.com/article/comprendre-l-ecs-la-brique-invisible-derriere-les-jeux-modernes)
+- [🚀 Uniflow 1.1.18](https://blog.darkwood.com/article/uniflow-1-1-18)
+- [🎨 Recursive pipe programming](https://blog.darkwood.com/article/recursive-pipe-programming)
+- [🚀 Tech watch week 39](https://blog.darkwood.com/article/tech-watch-week-39)
+- [🎙️HttpChunk with Flow](https://blog.darkwood.com/article/httpchunk-with-flow)
+<!-- BLOG-POST-LIST:END -->
+
+## :link: Links
