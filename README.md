@@ -151,7 +151,8 @@
   </a>
 </p>
 
-<h4 align="center"><span style="color:#00FF00;">💀💻 The best way to predict the future is to build it. 🛡️🕶️</span></h4>
+<h4 align="center"><span style="color:#00FF00;">💀 "Hack the planet, secure the future." 🕶️</span></h4>
+
 
 
 
