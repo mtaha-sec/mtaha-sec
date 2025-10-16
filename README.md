@@ -58,6 +58,11 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
+## **💻 Projects**
+- **Cloud Security Lab:** Deploy and secure AWS infrastructure using Terraform & Kubernetes  
+- **CTF Challenges:** Solutions for web & network security, stored in [GitHub repo](https://github.com/mtaha-sec)  
+- **DevSecOps Automation:** CI/CD pipelines with integrated security checks
+
 
 
 ## **📈 GitHub Analytics**
@@ -78,6 +83,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtaha-sec&theme=dark&border=00FF00)
+
 
 
