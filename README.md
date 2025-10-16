@@ -11,13 +11,14 @@
 <h4 align="center">Offensive Cybersecurity Enthusiast & CTF Player</h4>
 
 <p align="center">
-🎓 <strong>Location:</strong> Morocco  
-💡 <strong>Passion:</strong> Building and securing web & cloud environments  
-🛠️ <strong>Skills:</strong> AWS, Docker, Kubernetes, Terraform  
-🛡️ <strong>Focus:</strong> Identifying vulnerabilities, implementing security best practices, enhancing system resilience through CTFs, labs & personal projects  
-🚀 <strong>Approach:</strong> Taking projects from planning & design to deployment with real-world security measures  
+🎓 <strong>Location:</strong> Morocco<br>
+💡 <strong>Passion:</strong> Building and securing web & cloud environments<br>
+🛠️ <strong>Skills:</strong> AWS, Docker, Kubernetes, Terraform<br>
+🛡️ <strong>Focus:</strong> Identifying vulnerabilities, implementing security best practices, enhancing system resilience through CTFs, labs & personal projects<br>
+🚀 <strong>Approach:</strong> Taking projects from planning & design to deployment with real-world security measures<br>
 🔍 <strong>Looking for:</strong> Internships in cybersecurity, DevSecOps, or cloud security
 </p>
+
 
 
 
