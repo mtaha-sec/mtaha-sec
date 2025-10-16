@@ -11,12 +11,28 @@
 
 <p align="left">
 🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments  
+</p>
+
+<p align="left">
 🌍 <strong>Location:</strong> Morocco  
+</p>
+
+<p align="left">
 💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security  
+</p>
+
+<p align="left">
 🛠️ <strong>Tech Stack:</strong> <code>AWS</code> | <code>Azure</code> | <code>Docker</code> | <code>Kubernetes</code> | <code>Terraform</code> | <code>Kali Linux</code>  
+</p>
+
+<p align="left">
 🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices  
+</p>
+
+<p align="left">
 🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security  
 </p>
+
 
 
 
