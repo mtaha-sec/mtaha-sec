@@ -54,6 +54,23 @@
 ### 🛡️ Security & Cybersecurity
 `Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
 
+## 💻 Selected Projects
+
+### 🛡️ **AWS Secure Cloud Infrastructure**  
+**Tech Stack:** Terraform · AWS (EC2, VPC, IAM, Lambda, CloudWatch, Security Hub)  
+- Architected and deployed a **fully automated, secure AWS environment** using Terraform, including multi-AZ VPCs, public/private subnets, NAT & Internet Gateways, and granular security groups.  
+- Implemented **IAM roles with least privilege** for EC2 and Lambda, enabling automated threat detection and proactive security remediation.  
+- Integrated **CloudWatch**, **Security Hub**, and **Lambda** for real-time monitoring, alerting, and automated incident response — demonstrating hands-on **defensive cloud security** expertise.  
+
+---
+
+### ⚙️ **Automated User Management System**  
+**Tech Stack:** Ansible · Linux  
+- Engineered a **fully automated system** to create, update, and secure user accounts across multiple Linux servers using **Ansible playbooks** and **SSH key-based deployment**.  
+- Eliminated manual administration, ensuring **rapid, scalable, and error-free** user management.  
+- Centralized access control and **automated routine operations**, showcasing strong **DevOps and system administration** skills.  
+
+
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
