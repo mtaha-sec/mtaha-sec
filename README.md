@@ -49,7 +49,7 @@
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
 <hr>
-## **💻 Projects**
+### 💻 **Projects**
 
 ### 🛠️ **Cloud Security Lab**
 Deploy and secure **AWS infrastructure** using `Terraform` & `Kubernetes`.  
