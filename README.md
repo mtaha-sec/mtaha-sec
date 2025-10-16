@@ -90,20 +90,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
 </p>
 <h3><strong>💻 Projects</strong></h3>
-<hr>
 
-### 🛠️ **Cloud Security Lab**
-Deploy and secure **AWS infrastructure** using `Terraform` & `Kubernetes`.  
-Focus on best practices for cloud security, automation, and monitoring.
-
-### 🕵️‍♂️ **CTF Challenges**
-Hands-on solutions for **web & network security challenges**, stored in [GitHub repo](https://github.com/mtaha-sec).  
-Showcases vulnerability exploitation, analysis, and remediation skills.
-
-### ⚡ **DevSecOps Automation**
-Design and implement **CI/CD pipelines** with integrated security checks.  
-Automates deployments while enforcing **DevSecOps security policies** and monitoring compliance.
-<hr>
 <h3><strong>📈 GitHub Analytics</strong></h3>
 
 <picture>
