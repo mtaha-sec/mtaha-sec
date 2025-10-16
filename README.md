@@ -3,35 +3,21 @@
 <p align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
  
-</p>
+<h3 align="center">💀 Aspiring Cloud Security & DevSecOps Engineer</h3>
+<h4 align="center">Offensive Cybersecurity | CTF Player | Cloud Security Specialist</h4>
 
-<h3 align="center">Aspiring Cloud Security & DevSecOps Engineer</h3>
-<h4 align="center">💻 Offensive Cybersecurity Enthusiast | CTF Player | Cloud Security Specialist</h4>
-<p align="center">🎓 Computer Science Student at the Académie Internationale Mohammed VI de l’Aviation Civile (AIAC) — Casablanca, Morocco</p>
-
-<p align="left">
-🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments  
-</p>
+<p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
 <p align="left">
-🌍 <strong style="color:#00FF7F;">Location:</strong> Based in <strong>Morocco</strong> — open to global collaboration and innovation.  
+<strong>Mission:</strong> Build, secure, and optimize cloud & web environments.<br>
+<strong>Location:</strong> Morocco — open to global collaboration.<br>
+<strong>Expertise:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security.<br>
+<strong>Tech Stack:</strong> AWS · Azure · Docker · Kubernetes · Terraform · Kali Linux.<br>
+<strong>Approach:</strong> Automation, threat modeling, and real-world defense strategies.<br>
+<strong>Seeking:</strong> Internship / professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
 
-<p align="left">
-💡 <strong style="color:#00FF7F;">Expertise & Passion:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security  
-</p>
-
-<p align="left">
-🛠️ <strong style="color:#00FF7F;">Tech Stack:</strong> <code>AWS</code> · <code>Azure</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Terraform</code> · <code>Kali Linux</code>  
-</p>
-
-<p align="left">
-🚀 <strong style="color:#00FF7F;">Approach:</strong> Integrating automation, threat modeling, and real-world defense strategies from design to deployment.  
-</p>
-
-<p align="left">
-🔍 <strong style="color:#00FF7F;">Seeking:</strong> Internship or professional opportunity in <strong>Cybersecurity</strong>, <strong>DevSecOps</strong>, or <strong>Cloud Security</strong>.  
-</p>
+<h4 align="center"><span style="color:#00FF00;">"Hack the system, secure the future."</span></h4>
 
 
 
