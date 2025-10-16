@@ -28,16 +28,6 @@
 </p>
 
 
-
-<hr>
-
-<!-- ================= CONNECT ================= -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/taha-a-4101b5349/" target="_blank">LinkedIn</a> |
- 
-</p>
-
 <hr>
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
