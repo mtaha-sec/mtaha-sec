@@ -131,7 +131,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mtaha-sec&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" />
 </picture>
 
-<hr>
+
 
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=matrix&column=4&row=2)
