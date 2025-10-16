@@ -22,9 +22,6 @@
 ### 💻 Programming Languages
 `Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
 
-### 🧰 Frameworks & Libraries
-`TensorFlow` | `PyTorch` | `Scikit-learn` | `FastAPI` | `Spring Boot` | `Next.js`
-
 ### ⚙️ DevOps & Tools
 `Docker` | `Kubernetes` | `Jenkins` | `GitHub Actions` | `Jira` | `Kali Linux`
 
