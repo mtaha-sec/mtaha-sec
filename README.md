@@ -73,5 +73,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mtaha-sec&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" />
 </picture>
+## **🏆 GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 
