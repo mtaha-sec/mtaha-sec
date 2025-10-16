@@ -11,14 +11,14 @@
 </p>
 
 
-<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer (Passionate about Cybersecurity(offensive) & CTF Player)</h3>
+<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer | Offensive Cybersecurity Enthusiast & CTF Player</h3>
 
 <p align="center">
-I’m an aspiring Cloud Security & DevSecOps engineer from Morocco, passionate about building and securing web and cloud environments.  
-I work extensively with <strong>AWS, Docker, Kubernetes, Terraform</strong> to design, deploy, and protect cloud infrastructures.  
-Through CTF competitions, hands-on labs, and personal projects, I identify and fix vulnerabilities, implement security best practices, and ensure systems are reliable and resilient.  
-I enjoy taking projects from planning and design all the way to testing and deployment, applying real-world security measures along the way.  
-I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong> to apply my skills and contribute to impactful security projects.
+🎓 Based in Morocco, I’m passionate about building and securing web and cloud environments.  
+💡 Skilled in <strong>AWS, Docker, Kubernetes, Terraform</strong>, I design, deploy, and protect cloud infrastructures.  
+🛡️ Through CTFs, hands-on labs, and personal projects, I identify vulnerabilities, implement security best practices, and enhance system resilience.  
+🚀 I enjoy taking projects from planning and design to deployment while applying real-world security measures.  
+🔍 Currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong> to contribute to impactful security projects.
 </p>
 
 
