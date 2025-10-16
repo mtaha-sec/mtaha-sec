@@ -46,7 +46,7 @@
 - Eliminated manual administration, ensuring **rapid, scalable, and error-free** user management.  
 - Centralized access control and **automated routine operations**, showcasing strong **DevOps and system administration** skills.  
 
-
+<hr>
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="left">🧰 Languages & Tools</h3>
 
