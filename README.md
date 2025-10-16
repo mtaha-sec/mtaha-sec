@@ -48,8 +48,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
-<hr>
 ### 💻 **Projects**
+<hr>
 
 ### 🛠️ **Cloud Security Lab**
 Deploy and secure **AWS infrastructure** using `Terraform` & `Kubernetes`.  
@@ -62,8 +62,6 @@ Showcases vulnerability exploitation, analysis, and remediation skills.
 ### ⚡ **DevSecOps Automation**
 Design and implement **CI/CD pipelines** with integrated security checks.  
 Automates deployments while enforcing **DevSecOps security policies** and monitoring compliance.
-
-## **📈 GitHub Analytics**
 
 <picture>
   <source
