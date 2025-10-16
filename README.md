@@ -4,6 +4,9 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
  
 </p>
+<p align="center">
+  <img src="taha.png" alt="Taha" width="150" style="border-radius: 50%;" />
+</p>
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
 <h4 align="center">Offensive Cybersecurity Enthusiast & CTF Player</h4>
 
