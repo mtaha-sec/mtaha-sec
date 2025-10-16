@@ -27,13 +27,13 @@
 `Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
 
 ### ⚙️ DevOps & Tools
-`Docker` | `Kubernetes` | `Jenkins` | `GitHub Actions` | `Jira` | `Kali Linux`
+`Docker` | `Kubernetes` | `Terraform` | `Kali Linux`
 
 ### 🗄️ Databases
-`Oracle Database` | `PostgreSQL` | `Firebase`
+`Oracle Database` | `PostgreSQL` | `Mongodb`
 
 ### ☁️ Cloud Platforms
-`AWS` | `Azure` | `Oracle Cloud Infrastructure`
+`AWS` | `Azure` 
 
 ### 🛡️ Security & Cybersecurity
 `Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
@@ -41,12 +41,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
-</p>
-
-
-<hr>
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="center">Languages & Tools:</h3>
@@ -94,6 +88,12 @@ Automates deployments while enforcing **DevSecOps security policies** and monito
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mtaha-sec&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" />
 </picture>
+<p align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="50">
+</p>
+
+
+<hr>
 
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=matrix&column=4&row=2)
