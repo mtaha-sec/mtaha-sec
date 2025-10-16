@@ -14,10 +14,6 @@
 </p>
 
 <p align="left">
-🎯 <strong style="color:#00FF7F;">Mission:</strong> Craft, secure, and optimize <strong>cloud</strong> and <strong>web infrastructures</strong> with resilience and precision.  
-</p>
-
-<p align="left">
 🌍 <strong style="color:#00FF7F;">Location:</strong> Based in <strong>Morocco</strong> — open to global collaboration and innovation.  
 </p>
 
