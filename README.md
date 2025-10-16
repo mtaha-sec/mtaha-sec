@@ -63,7 +63,7 @@ Showcases vulnerability exploitation, analysis, and remediation skills.
 Design and implement **CI/CD pipelines** with integrated security checks.  
 Automates deployments while enforcing **DevSecOps security policies** and monitoring compliance.
 <hr>
-## **📈 GitHub Analytics**
+<h3><strong>📈 GitHub Analytics</strong></h3>
 
 <picture>
   <source
