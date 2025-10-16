@@ -43,7 +43,7 @@
 `Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
 
 ### ⚙️ DevOps & Tools
-`Docker` | `Kubernetes` | `Terraform` | `Kali Linux`
+`Docker` | `Kubernetes` | `Terraform` 
 
 ### 🗄️ Databases
 `Oracle Database` | `PostgreSQL` | `Mongodb`
@@ -51,7 +51,7 @@
 ### ☁️ Cloud Platforms
 `AWS` | `Azure` 
 
-### 🛡️ Security & Cybersecurity
+### 🛡️ Security 
 `Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
 
 ## 💻 Selected Projects
