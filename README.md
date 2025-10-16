@@ -4,21 +4,18 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
  
 </p>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="taha.png" alt="Taha Profile Picture" width="200">
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
 <h4 align="center">Offensive Cybersecurity Enthusiast & CTF Player</h4>
 
 <p align="center">
-🎓 Based in Morocco  
-💡 Passionate about building and securing web and cloud environments  
-🛠️ Skilled in <strong>AWS, Docker, Kubernetes, Terraform</strong>  
-🛡️ Identify vulnerabilities, implement security best practices, and enhance system resilience through CTFs, labs, and personal projects  
-🚀 Enjoy taking projects from planning and design to deployment with real-world security measures  
-🔍 Currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong>
+🎓 <strong>Location:</strong> Morocco  
+💡 <strong>Passion:</strong> Building and securing web & cloud environments  
+🛠️ <strong>Skills:</strong> AWS, Docker, Kubernetes, Terraform  
+🛡️ <strong>Focus:</strong> Identifying vulnerabilities, implementing security best practices, enhancing system resilience through CTFs, labs & personal projects  
+🚀 <strong>Approach:</strong> Taking projects from planning & design to deployment with real-world security measures  
+🔍 <strong>Looking for:</strong> Internships in cybersecurity, DevSecOps, or cloud security
 </p>
+
 
 
 
