@@ -7,8 +7,7 @@
 <p align="center">
   <img src="taha.png" alt="Taha" width="150" style="border-radius: 50%;" />
 </p>
-<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
-<h4 align="center">Offensive Cybersecurity Enthusiast & CTF Player</h4>
+<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer | Offensive Cybersecurity Enthusiast & CTF Player</h3>
 
 <p>
 🎓 <strong>Location:</strong> Morocco<br>
