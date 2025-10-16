@@ -69,7 +69,7 @@
 
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
-<h3 align="center">Languages & Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40"/></a>
