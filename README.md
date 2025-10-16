@@ -38,10 +38,6 @@
 ### 🛡️ Security & Cybersecurity
 `Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
 
-
-
-
-
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
