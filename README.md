@@ -22,19 +22,14 @@
 
 ### 💻 Programming Languages
 `Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
-
 ### ⚙️ DevOps & Tools
-`Docker` | `Kubernetes` | `Terraform` 
-
+`Docker` | `Kubernetes` | `Terraform` | `Ansible`
 ### 🗄️ Databases
 `Oracle Database` | `PostgreSQL` | `Mongodb` | ` Mysql  `
-
 ### ☁️ Cloud Platforms
 `AWS` | `Azure` 
-
 ### 🛡️ Security 
 `Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
-
 ## 💻 Selected Projects
 
 ### 🛡️ **AWS Secure Cloud Infrastructure**  
