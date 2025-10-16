@@ -46,7 +46,7 @@
 `Docker` | `Kubernetes` | `Terraform` 
 
 ### 🗄️ Databases
-`Oracle Database` | `PostgreSQL` | `Mongodb`
+`Oracle Database` | `PostgreSQL` | `Mongodb` | ` Mysql  `
 
 ### ☁️ Cloud Platforms
 `AWS` | `Azure` 
