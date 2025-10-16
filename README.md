@@ -9,13 +9,14 @@
 <h4 align="center">💻 Offensive Cybersecurity Enthusiast | CTF Player | Cloud Security Specialist</h4>
 
 <p align="center">
-🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments<br>
-🌍 <strong>Location:</strong> Morocco<br>
-💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security<br>
-🛠️ <strong>Tech Stack:</strong> <code>AWS</code> | <code>Azure</code> | <code>Docker</code> | <code>Kubernetes</code> | <code>Terraform</code> | <code>Kali Linux</code><br>
-🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices<br>
-🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security
+🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments  
+🌍 <strong>Location:</strong> Morocco  
+💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security  
+🛠️ <strong>Tech Stack:</strong> <code>AWS</code> | <code>Azure</code> | <code>Docker</code> | <code>Kubernetes</code> | <code>Terraform</code> | <code>Kali Linux</code>  
+🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices  
+🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security  
 </p>
+
 
 
 
