@@ -78,7 +78,8 @@ Automates deployments while enforcing **DevSecOps security policies** and monito
 </picture>
 
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=matrix&rank=S,AAA)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=matrix&column=4&row=2)
+
 
 
 
