@@ -6,16 +6,17 @@
 </p>
 
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
-<h4 align="center">💻 Offensive Cybersecurity Enthusiast & CTF Player</h4>
+<h4 align="center">💻 Offensive Cybersecurity Enthusiast | CTF Player | Cloud Security Specialist</h4>
 
 <p align="center">
-🎓 <strong>Location:</strong> Morocco<br>
-💡 <strong>Passion:</strong> Building and securing web & cloud environments<br>
-🛠️ <strong>Tech Stack:</strong> <code>AWS</code>, <code>Azure</code>, <code>Docker</code>, <code>Kubernetes</code>, <code>Terraform</code>, <code>Kali Linux</code><br>
-🛡️ <strong>Focus:</strong> Identifying vulnerabilities, implementing security best practices, and enhancing system resilience through CTFs, labs & personal projects<br>
-🚀 <strong>Approach:</strong> Taking projects from planning & design to deployment with real-world security measures<br>
-🔍 <strong>Seeking:</strong> Internships in Cybersecurity, DevSecOps, or Cloud Security
+🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments<br>
+🌍 <strong>Location:</strong> Morocco<br>
+💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security<br>
+🛠️ <strong>Tech Stack:</strong> <code>AWS</code> | <code>Azure</code> | <code>Docker</code> | <code>Kubernetes</code> | <code>Terraform</code> | <code>Kali Linux</code><br>
+🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices<br>
+🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security
 </p>
+
 
 
 
