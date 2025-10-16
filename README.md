@@ -48,7 +48,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
-### 💻 **Projects**
+<h3><strong>💻 Projects</strong></h3>
 <hr>
 
 ### 🛠️ **Cloud Security Lab**
