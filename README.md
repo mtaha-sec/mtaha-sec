@@ -94,7 +94,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="45" height="45"/>
   </a>
 </p>
-
+<hr>
 
 <h3><strong>📈 GitHub Analytics</strong></h3>
 
