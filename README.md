@@ -4,9 +4,7 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="150">
  
 </p>
-<p align="center">
-  <img src="taha.png" alt="Taha" width="200" style="border-radius: 50%;" />
-</p>
+
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer | Offensive Cybersecurity Enthusiast & CTF Player</h3>
 
 <p>
@@ -19,6 +17,25 @@
 </p>
 
 
+## 🧩 Skills
+
+### 💻 Programming Languages
+`Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
+
+### 🧰 Frameworks & Libraries
+`TensorFlow` | `PyTorch` | `Scikit-learn` | `FastAPI` | `Spring Boot` | `Next.js`
+
+### ⚙️ DevOps & Tools
+`Docker` | `Kubernetes` | `Jenkins` | `GitHub Actions` | `Jira` | `Kali Linux`
+
+### 🗄️ Databases
+`Oracle Database` | `PostgreSQL` | `Firebase`
+
+### ☁️ Cloud Platforms
+`AWS` | `Azure` | `Oracle Cloud Infrastructure`
+
+### 🛡️ Security & Cybersecurity
+`Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
 
 
 
