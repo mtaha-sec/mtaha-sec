@@ -8,18 +8,17 @@
 <!-- Profile Picture -->
 <p align="center">
   <img src="taha.png" alt="Taha Profile Picture" width="500">
-</p>
-
-
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer | Offensive Cybersecurity Enthusiast & CTF Player</h3>
 
 <p align="center">
-🎓 Based in Morocco, I’m passionate about building and securing web and cloud environments.  
-💡 Skilled in <strong>AWS, Docker, Kubernetes, Terraform</strong>, I design, deploy, and protect cloud infrastructures.  
-🛡️ Through CTFs, hands-on labs, and personal projects, I identify vulnerabilities, implement security best practices, and enhance system resilience.  
-🚀 I enjoy taking projects from planning and design to deployment while applying real-world security measures.  
-🔍 Currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong> to contribute to impactful security projects.
+🎓 Based in Morocco  
+💡 Passionate about building and securing web and cloud environments  
+🛠️ Skilled in <strong>AWS, Docker, Kubernetes, Terraform</strong>  
+🛡️ Identifying vulnerabilities, implementing security best practices, and enhancing system resilience through CTFs, labs, and personal projects  
+🚀 Enjoy taking projects from planning and design to deployment with real-world security measures  
+🔍 Currently seeking internships in <strong>cybersecurity, DevSecOps, or cloud security</strong>
 </p>
+
 
 
 <p align="center">
