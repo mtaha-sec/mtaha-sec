@@ -59,7 +59,4 @@ I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or clou
 </p>
 
 <hr>
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaha-sec)](https://github.com/mtaha-sec/github-readme-stats)
