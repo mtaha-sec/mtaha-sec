@@ -113,7 +113,7 @@
 
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=matrix&column=4&row=2)
-<h2 align="center">🌍 Connect With Me</h2>
+<h2 align="left">🌍 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/taha-a-4101b5349" target="_blank">
