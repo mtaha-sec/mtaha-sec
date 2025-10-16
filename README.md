@@ -61,9 +61,6 @@
 - Architected and deployed a **fully automated, secure AWS environment** using Terraform, including multi-AZ VPCs, public/private subnets, NAT & Internet Gateways, and granular security groups.  
 - Implemented **IAM roles with least privilege** for EC2 and Lambda, enabling automated threat detection and proactive security remediation.  
 - Integrated **CloudWatch**, **Security Hub**, and **Lambda** for real-time monitoring, alerting, and automated incident response — demonstrating hands-on **defensive cloud security** expertise.  
-
----
-
 ### ⚙️ **Automated User Management System**  
 **Tech Stack:** Ansible · Linux  
 - Engineered a **fully automated system** to create, update, and secure user accounts across multiple Linux servers using **Ansible playbooks** and **SSH key-based deployment**.  
