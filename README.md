@@ -17,11 +17,6 @@
 <strong>Seeking:</strong> Internship / professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
 
-<h4 align="center"><span style="color:#00FF00;">"Hack the system, secure the future."</span></h4>
-
-
-
-
 
 ## 🧩 Skills
 
