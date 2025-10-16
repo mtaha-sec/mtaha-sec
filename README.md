@@ -20,19 +20,6 @@
 <strong>Seeking:</strong> Internship / professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
 
-
-## 🧩 Skills
-
-###  Programming Languages
-`Python` | `Java` | `C++` | `SQL` | `JavaScript` | `Bash`
-### DevOps & Tools
-`Docker` | `Kubernetes` | `Terraform` | `Ansible`
-###  Databases
-`Oracle Database` | `PostgreSQL` | `Mongodb` | ` Mysql  `
-###  Cloud Platforms
-`AWS` | `Azure` 
-###  Security 
-`Cloud Security` | `DevSecOps` | `Penetration Testing` | `Network Security` | `Web Application Security`
 ## 💻 Selected Projects
 
 ###  **AWS Secure Cloud Infrastructure**  
