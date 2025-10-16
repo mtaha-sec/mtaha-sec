@@ -5,7 +5,7 @@
  
 </p>
 <p align="center">
-  <img src="taha.png" alt="Taha" width="150" style="border-radius: 50%;" />
+  <img src="taha.png" alt="Taha" width="200" style="border-radius: 50%;" />
 </p>
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer | Offensive Cybersecurity Enthusiast & CTF Player</h3>
 
