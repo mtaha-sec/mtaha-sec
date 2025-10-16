@@ -10,7 +10,7 @@
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
 <h4 align="center">Offensive Cybersecurity Enthusiast & CTF Player</h4>
 
-<p align="center">
+<p>
 🎓 <strong>Location:</strong> Morocco<br>
 💡 <strong>Passion:</strong> Building and securing web & cloud environments<br>
 🛠️ <strong>Skills:</strong> AWS, Docker, Kubernetes, Terraform<br>
