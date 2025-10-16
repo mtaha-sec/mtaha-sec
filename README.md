@@ -59,9 +59,18 @@
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
 ## **💻 Projects**
-- **Cloud Security Lab:** Deploy and secure AWS infrastructure using Terraform & Kubernetes  
-- **CTF Challenges:** Solutions for web & network security, stored in [GitHub repo](https://github.com/mtaha-sec)  
-- **DevSecOps Automation:** CI/CD pipelines with integrated security checks
+
+### 🛠️ **Cloud Security Lab**
+Deploy and secure **AWS infrastructure** using `Terraform` & `Kubernetes`.  
+Focus on best practices for cloud security, automation, and monitoring.
+
+### 🕵️‍♂️ **CTF Challenges**
+Hands-on solutions for **web & network security challenges**, stored in [GitHub repo](https://github.com/mtaha-sec).  
+Showcases vulnerability exploitation, analysis, and remediation skills.
+
+### ⚡ **DevSecOps Automation**
+Design and implement **CI/CD pipelines** with integrated security checks.  
+Automates deployments while enforcing **DevSecOps security policies** and monitoring compliance.
 
 
 
@@ -78,7 +87,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mtaha-sec&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" />
 </picture>
-## **🏆 GitHub Trophies**
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mtaha-sec&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
