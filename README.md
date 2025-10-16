@@ -59,9 +59,9 @@
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></a>
 </p>
 
-<hr>
-## 📈 GitHub Analytics
 
+## **📈 GitHub Analytics**
+<hr>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mtaha-sec&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00"
