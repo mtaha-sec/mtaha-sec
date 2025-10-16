@@ -14,23 +14,27 @@
 </p>
 
 <p align="left">
-🌍 <strong>Location:</strong> Morocco  
+🎯 <strong style="color:#00FF7F;">Mission:</strong> Craft, secure, and optimize <strong>cloud</strong> and <strong>web infrastructures</strong> with resilience and precision.  
 </p>
 
 <p align="left">
-💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security  
+🌍 <strong style="color:#00FF7F;">Location:</strong> Based in <strong>Morocco</strong> — open to global collaboration and innovation.  
 </p>
 
 <p align="left">
-🛠️ <strong>Tech Stack:</strong> <code>AWS</code> | <code>Azure</code> | <code>Docker</code> | <code>Kubernetes</code> | <code>Terraform</code> | <code>Kali Linux</code>  
+💡 <strong style="color:#00FF7F;">Expertise & Passion:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security  
 </p>
 
 <p align="left">
-🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices  
+🛠️ <strong style="color:#00FF7F;">Tech Stack:</strong> <code>AWS</code> · <code>Azure</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Terraform</code> · <code>Kali Linux</code>  
 </p>
 
 <p align="left">
-🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security  
+🚀 <strong style="color:#00FF7F;">Approach:</strong> Integrating automation, threat modeling, and real-world defense strategies from design to deployment.  
+</p>
+
+<p align="left">
+🔍 <strong style="color:#00FF7F;">Seeking:</strong> Internship or professional opportunity in <strong>Cybersecurity</strong>, <strong>DevSecOps</strong>, or <strong>Cloud Security</strong>.  
 </p>
 
 
