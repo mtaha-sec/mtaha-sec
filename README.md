@@ -151,7 +151,7 @@
   </a>
 </p>
 
-<h4 align="center"><span style="color:#00FF00;">💀 "Hack the planet, secure the future." 🕶️</span></h4>
+<h4 align="center"><span style="color:#00FF00;"> echo "Hack the planet, secure the future." </span></h4>
 
 
 
