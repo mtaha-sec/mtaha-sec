@@ -59,4 +59,14 @@ I’m currently seeking internships in <strong>cybersecurity, DevSecOps, or clou
 </p>
 
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaha-sec)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
