@@ -7,8 +7,9 @@
 
 <h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
 <h4 align="center">💻 Offensive Cybersecurity Enthusiast | CTF Player | Cloud Security Specialist</h4>
+<p align="center">🎓 Computer Science Student at the Académie Internationale Mohammed VI de l’Aviation Civile (AIAC) — Casablanca, Morocco</p>
 
-<p align="center">
+<p align="left">
 🎯 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments  
 🌍 <strong>Location:</strong> Morocco  
 💡 <strong>Expertise & Passion:</strong> Offensive Security, DevSecOps, Cloud Security, Penetration Testing, Network & Web Application Security  
@@ -16,7 +17,6 @@
 🚀 <strong>Approach:</strong> From planning & design to deployment, applying real-world security measures, automation, and best practices  
 🔍 <strong>Seeking:</strong> Internships or opportunities in Cybersecurity, DevSecOps, or Cloud Security  
 </p>
-
 
 
 
