@@ -5,7 +5,7 @@
  
 </p>
 
-<h3 align="center">🏄‍♂️ Aspiring Cloud Security & DevSecOps Engineer</h3>
+<h3 align="center">Aspiring Cloud Security & DevSecOps Engineer</h3>
 <h4 align="center">💻 Offensive Cybersecurity Enthusiast | CTF Player | Cloud Security Specialist</h4>
 <p align="center">🎓 Computer Science Student at the Académie Internationale Mohammed VI de l’Aviation Civile (AIAC) — Casablanca, Morocco</p>
 
