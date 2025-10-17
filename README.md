@@ -20,7 +20,7 @@
 <strong>Seeking:</strong> Internship / professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
 
-## 💻 Selected Projects
+## 모 Selected Projects
 
 ###  **AWS Secure Cloud Infrastructure**  
 **Tech Stack:** Terraform · AWS (EC2, VPC, IAM, Lambda, CloudWatch, Security Hub)  
