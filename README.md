@@ -7,7 +7,7 @@
 </div>
  
 <h3 align="center"> Aspiring Cloud Security & DevSecOps Engineer</h3>
-<h4 align="center">Offensive Cybersecurity | CTF Player | Cloud Security Specialist</h4>
+<h4 align="center">Passionate Cybersecurity | CTF Player </h4>
 
 <p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
