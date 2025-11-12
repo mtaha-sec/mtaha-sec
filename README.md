@@ -10,7 +10,7 @@
 <strong>Mission:</strong> Build, secure, and optimize cloud & web environments.<br>
 <strong>Location:</strong> Morocco — open to global collaboration.<br>
 <strong>Expertise:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security.<br>
-<strong>Tech Stack:</strong> AWS · Azure · Docker · Kubernetes · Terraform · Kali Linux.<br>
+<strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · Kali Linux.<br>
 <strong>Approach:</strong> Automation, threat modeling, and real-world defense strategies.<br>
 <strong>Seeking:</strong> Internship / professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
