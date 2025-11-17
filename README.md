@@ -7,7 +7,7 @@
 <p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
 <p align="left">
-<strong>Mission:</strong> Build, secure, and optimize cloud & web environments.<br>
+<strong>Mission:</strong> Build, secure, and optimize cloud environments.<br>
 <strong>Location:</strong> Morocco — open to global collaboration.<br>
 <strong>Expertise:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security.<br>
 <strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · Kali Linux.<br>
