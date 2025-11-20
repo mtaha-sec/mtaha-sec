@@ -1,16 +1,16 @@
 <!-- ================= PROFILE & ABOUT ================= -->
 
  
-<h3 align="center"> Aspiring Cloud Security & DevSecOps Engineer</h3>
-<h4 align="center">Passionate Cybersecurity | CTF Player </h4>
+<h3 align="center"> Aspiring Cloud Security</h3>
+<h4 align="center">Passionate about Cybersecurity & Penetration Testing | Purple Team Focused</h4>
 
 <p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
 <p align="left">
-<strong>Mission:</strong> Build, secure, and optimize cloud environments.<br>
+<strong>Mission:</strong> Build, secure, and optimize networks,applications,cloud environments.<br>
 <strong>Location:</strong> Morocco — open to global collaboration.<br>
-<strong>Expertise:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing · Network & Web Application Security.<br>
-<strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · Kali Linux.<br>
+<strong>Expertise:</strong> Offensive Security · DevSecOps · Cloud Security · Penetration Testing ·Secure Coding Practices·Network & Web Application Security.<br>
+<strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform ·SIEM·Firewalls·IDS/IPS·VPC·Kali linux.<br>
 <strong>Approach:</strong> Automation, threat modeling, and real-world defense strategies.<br>
 <strong>Seeking:</strong> Internship or professional opportunities in Cybersecurity, DevSecOps, or Cloud Security.
 </p>
