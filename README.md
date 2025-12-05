@@ -2,7 +2,7 @@
 
  
 <h3 align="center"> Aspiring Cloud Security</h3>
-<h4 align="center">Passionate about Cybersecurity & Penetration Testing | Purple Team Focused</h4>
+<h4 align="center">CS Student @ AIAC | Offensive Security & Purple Team</h4>
 
 <p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
