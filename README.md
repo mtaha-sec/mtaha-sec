@@ -1,8 +1,8 @@
 <!-- ================= PROFILE & ABOUT ================= -->
 
  
-<h3 align="center"> Aspiring Cloud Security</h3>
-<h4 align="center">CS Student @ AIAC | Offensive Security & Purple Team</h4>
+
+<h4 align="center">CS Student @ AIAC | Offensive & Defensive Security</h4>
 
 <p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
 
