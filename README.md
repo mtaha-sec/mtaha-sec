@@ -2,9 +2,7 @@
 
  
 
-<h4 align="center">CS Student @ AIAC | Offensive & Defensive Security</h4>
-
-<p align="center">🎓 Computer Science Student — AIAC, Casablanca, Morocco</p>
+<h4 align="center">🎓CS Student @ AIAC | Offensive & Defensive Security</h4>
 
 <p align="left">
 <strong>Mission:</strong> Build, secure, and optimize networks,applications,cloud environments.<br>
