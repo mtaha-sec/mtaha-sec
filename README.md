@@ -5,7 +5,7 @@
 <h4 align="center">🎓CS Student @ AIAC | Offensive & Defensive Security</h4>
 
 <p align="left">
-<strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · SIEM · Firewalls · IDS/IPS · VPC · Kali linux.<br>
+<strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · SIEM · Firewalls · IDS/IPS · Nmap · Burp Suite · Wireshark · Metasploit.<br>
 <strong>Seeking:</strong> Internship or professional opportunities in Cybersecurity.
 </p>
 
