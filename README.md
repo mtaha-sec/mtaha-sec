@@ -6,7 +6,6 @@
 
 <p align="left">
 <strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · SIEM · Firewalls · IDS/IPS · Nmap · Burp Suite · Wireshark · Metasploit.<br>
-<strong>Seeking:</strong> Internship or professional opportunities in Cybersecurity.
 </p>
 
 <hr>
