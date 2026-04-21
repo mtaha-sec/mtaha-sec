@@ -2,7 +2,7 @@
 
  
 
-<h4 align="center">🎓CS Student @ AIAC | Offensive Security</h4>
+<h4 align="center">🎓CS Student @ AIAC | IT Security Enthusiast</h4>
 
 <p align="left">
 <strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · SIEM · Firewalls · IDS/IPS · Nmap · Burp Suite · Wireshark · Metasploit.<br>
