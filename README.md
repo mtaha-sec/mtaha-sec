@@ -2,7 +2,7 @@
 
  
 
-<h4 align="center">🎓Cybersecurity Student @ AIAC X INSA HDF | IT Security Enthusiast</h4>
+<h4 align="center">🎓Cybersecurity Engineering Student @ AIAC X INSA HDF | IT Security Enthusiast</h4>
 
 <p align="left">
 <strong>Tech Stack:</strong> AWS  · Docker · Kubernetes · Terraform · SIEM · Firewalls · IDS/IPS · Nmap · Burp Suite · Wireshark · Metasploit.<br>
